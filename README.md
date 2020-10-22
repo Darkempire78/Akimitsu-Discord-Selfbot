@@ -2,7 +2,7 @@
 
 # Akimitsu Discord Selfbot
 
-Akimitsu Discord Selfbot is a Discord selfbot wich allow to farm efficiently for you on the [Akimitsu Discord's bot](https://fr.akimitsu.xyz/) (a pokemon bot).
+Akimitsu Discord Selfbot is a Discord selfbot wich allow to farm efficiently all the time for you on the [Akimitsu Discord's bot](https://fr.akimitsu.xyz/) (a pokemon bot).
 
 ## Installation
 
