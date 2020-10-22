@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/repo-size/Darkempire78/Akimitsu-Discord-Selfbot)
+[![CodeFactor](https://www.codefactor.io/repository/github/darkempire78/akimitsu-discord-selfbot/badge)](https://www.codefactor.io/repository/github/darkempire78/akimitsu-discord-selfbot) ![](https://img.shields.io/github/repo-size/Darkempire78/Akimitsu-Discord-Selfbot)
 
 # Akimitsu Discord Selfbot
 
