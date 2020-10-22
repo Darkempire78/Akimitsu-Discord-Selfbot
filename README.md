@@ -25,7 +25,7 @@ This Discord selbot take many functions.
 * Pokemon farm
 * Rpg farm
 * claim hourly, daily, monthly gift
-* More..
+* More...
 
 ## Commands
 
