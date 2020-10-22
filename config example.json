@@ -1,0 +1,14 @@
+{
+	"token": "your token",
+    "prefix": "your prefix",
+
+    "pokemon_prefix": "?",
+    "command_channel": 123456789,
+
+    "pokemonMode": true,
+    "rpgMode": true,
+
+    "release": true,
+    "release_type_all": "all",
+    "peche": "normal"
+} 
