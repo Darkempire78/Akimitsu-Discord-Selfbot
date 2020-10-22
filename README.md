@@ -12,7 +12,7 @@ Install all dependencies:
 pip install -r requirements.txt
 ```
 Then put your Discord token and your prefix inside `configuration.json`. 
-Check this link for find your Discord token : https://www.youtube.com/watch?v=xuB1WQVM3R8
+Check this [link](https://www.youtube.com/watch?v=xuB1WQVM3R8) for find your Discord token.
 
 Finally, host the script. you can use Heroku or another system.
 
